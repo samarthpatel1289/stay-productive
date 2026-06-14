@@ -24,6 +24,7 @@ This workflow uses **macOS Folder Actions** and a custom **Shortcuts automation*
 
 ### 1. Download/Create the Shortcut
 * **iCloud Shortcut Link:** [Add your iCloud Shortcut Link here]
+* **GitHub Repository:** [samarthpatel1289/stay-productive](https://github.com/samarthpatel1289/stay-productive)
 * Alternatively, you can build a 3-step Shortcut named **`MacOS folder`** with the following steps:
   1. **Run JavaScript for Automation** with JXA Script 1 (Scanner) — *Right-click the blue `[Input]` variable and bind it to `Shortcut Input`.*
   2. **Use Cloud model** with the AI prompt.
